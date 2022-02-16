@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a8850c70-1371-eea3-072a-935d000bc49d
 ---
@@ -330,10 +332,10 @@ Special event: theatrical field trip to see Richard Goodwin's "Two Men of Floren
 {{< tdopen >}}
 Playwriting, day one
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 To begin creating theatrical pieces of writing, building on your experience in this class; to begin to find a theatrical voice.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Work on your various forms of writing
