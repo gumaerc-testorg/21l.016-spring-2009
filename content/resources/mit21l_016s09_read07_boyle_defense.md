@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: A Defense of the Doctrine Touching the Spring and Weight of the Air
 uid: b324c031-157d-6c33-52da-cdd21aa7d28a

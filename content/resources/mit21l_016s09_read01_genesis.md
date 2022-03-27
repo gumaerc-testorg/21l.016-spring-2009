@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: Book of Genesis
 uid: bfcc9472-abdd-54fb-88f9-0abc2842b56c

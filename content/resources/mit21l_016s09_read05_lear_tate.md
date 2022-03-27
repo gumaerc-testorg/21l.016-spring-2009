@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: a8850c70-1371-eea3-072a-935d000bc49d
 resourcetype: Document
 title: Nahum Tate's "The History of King Lear" Excerpt from Act III
 uid: 589bcc3b-2ce3-caa2-90a7-d99bacfe6df8

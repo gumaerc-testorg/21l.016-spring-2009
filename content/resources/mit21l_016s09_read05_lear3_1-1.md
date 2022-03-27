@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: 'King Lear: Act 3, Scene 1 '
 uid: fba667fc-970d-b584-7418-cf87594a96a8

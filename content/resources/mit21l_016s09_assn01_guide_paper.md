@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9c739016-a2c7-70ad-34f0-332f34514629
 resourcetype: Document
 title: Guidelines for Comparative Short Essay Assignment
 uid: f009850d-b376-cdb0-9a5d-a34543d27b40

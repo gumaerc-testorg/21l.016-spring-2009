@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: The Grand Remonstrance, with the Petition accompanying it
 uid: 4b9252ed-04cf-f1ea-cbde-769a099c3d90

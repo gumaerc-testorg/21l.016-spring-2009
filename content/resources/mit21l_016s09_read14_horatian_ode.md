@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: 'An Horatian Ode upon Cromwell''s Return from Ireland '
 uid: 0454a411-6e7f-2b2f-6431-28893f30290b

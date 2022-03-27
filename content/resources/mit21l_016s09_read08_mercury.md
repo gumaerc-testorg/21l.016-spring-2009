@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 resourcetype: Document
 title: Ben Jonson - Mercury Vindicated
 uid: 8bc3c058-c064-9028-002f-e41661bbbaa4
