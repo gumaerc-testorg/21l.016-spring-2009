@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides an introduction to the course and information on
+  meeting times, theme, class requirements, grading, learning objectives, required
+  books, and plagiarism policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

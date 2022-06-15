@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Images from Robert Hooke's Micrographia, and links to other sources of
+  images for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

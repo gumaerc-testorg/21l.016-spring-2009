@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, research
+  resources, assignment guidelines, and an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ Students complete the following assignments in this class:
 *   Performance, group, and scene work
 *   Five minute oral presentation, which may or may not match the topic of one's analytic research paper
 
-See the [calendar]({{< baseurl >}}/pages/calendar) page for a weekly breakdown of these assignments and related coursework.
+See the {{% resource_link a8850c70-1371-eea3-072a-935d000bc49d "calendar" %}} page for a weekly breakdown of these assignments and related coursework.
 
 Research Resources
 ------------------
@@ -31,11 +33,11 @@ Through the MIT Libraries' research databases, enrolled students can find severa
 Assignment Guidelines
 ---------------------
 
-Comparative short essay ([PDF]({{< baseurl >}}/resources/mit21l_016s09_assn01_guide_paper))
+Comparative short essay ({{% resource_link f009850d-b376-cdb0-9a5d-a34543d27b40 "PDF" %}})
 
-Analytic research paper ([PDF]({{< baseurl >}}/resources/mit21l_016s09_assn02_guide_respaper))
+Analytic research paper ({{% resource_link c21f34fe-ac7c-e9b4-c44b-7c587a898cfe "PDF" %}})
 
-Oral presentation ([PDF]({{< baseurl >}}/resources/mit21l_016s09_assn03_guide_pres))
+Oral presentation ({{% resource_link b819079c-360e-901f-56fd-4ae7649ee604 "PDF" %}})
 
 Example Student Work
 --------------------
@@ -44,4 +46,4 @@ Example Student Work
 
 In the 2007 version of this class (which may be accessed through the "Archived Versions" link on the [home page]({{< baseurl >}}/) of this class), the students' final assignment was to write and perform a play based on the topics covered during the term.
 
-"World Turned Upside Down," by the students of 21L.016 and 21M.616, Spring 2007 ([PDF]({{< baseurl >}}/resources/mit21l_016s09_assn04_2007script))
+"World Turned Upside Down," by the students of 21L.016 and 21M.616, Spring 2007 ({{% resource_link 3a283f54-741a-31f1-b824-574fc68e1236 "PDF" %}})
