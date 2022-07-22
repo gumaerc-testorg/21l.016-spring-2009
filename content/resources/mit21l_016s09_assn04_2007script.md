@@ -6,6 +6,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: World Turned Upside Down
 uid: 3a283f54-741a-31f1-b824-574fc68e1236
 ---
 Example of student work an assignment to write and perform a play based on the topics covered during the term.
-

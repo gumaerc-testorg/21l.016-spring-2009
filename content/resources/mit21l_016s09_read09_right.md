@@ -6,6 +6,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Petition of Right
 uid: 164bbc7a-7b56-8e65-be6b-03c310093f44
 ---
 Full text of The Petition of Right. These objectives of the 1628 English legal reform movement led to the Civil War and the deposing of Charles I in 1649. 
-

@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: A Louse
 uid: b48979e5-f03e-7aee-854c-8d889d4e949e
 ---
 Drawing of a louse, underside, shown grasping a hair, from Robert Hooke's Micrographia.
-

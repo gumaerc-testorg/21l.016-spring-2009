@@ -6,6 +6,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Defense of the Doctrine Touching the Spring and Weight of the Air
 uid: b324c031-157d-6c33-52da-cdd21aa7d28a
 ---
 Excerpt from "A Defense of the Doctrine Touching the Spring and Weight of the Air," by Robert Boyle.
-

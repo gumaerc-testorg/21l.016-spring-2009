@@ -6,6 +6,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Grand Remonstrance, with the Petition accompanying it
 uid: 4b9252ed-04cf-f1ea-cbde-769a099c3d90
 ---
 Greivances presented to King Charles I of England by the English Parliament on 1 December 1641.
-

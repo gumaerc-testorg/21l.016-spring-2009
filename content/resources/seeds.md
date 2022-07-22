@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Seeds
 uid: ec08475a-d73c-7106-f927-654df53a3a86
 ---
 Drawing of several different seeds from Robert Hooke's Micrographia.
-

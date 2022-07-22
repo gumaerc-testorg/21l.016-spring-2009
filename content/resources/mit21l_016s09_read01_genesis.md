@@ -5,6 +5,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Book of Genesis
 uid: bfcc9472-abdd-54fb-88f9-0abc2842b56c
 ---
 Excerpt from The Holy Bible, King James Edition, 1611.
-

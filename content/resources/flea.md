@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: A Flea
 uid: 23c2ad92-6b38-ad6f-45e1-8807b8898d16
 ---
 Drawing of a flea, side view, from Robert Hooke's Micrographia.
-

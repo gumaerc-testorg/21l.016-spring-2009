@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Magnified Cork
 uid: 587b23ff-b49b-8a3d-a2a6-0bdc060e8f8d
 ---
 Drawing of cork cell structure from Robert Hooke's Micrographia.
-

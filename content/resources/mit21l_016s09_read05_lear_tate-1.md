@@ -5,6 +5,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Nahum Tate's \"The History of King Lear\" \u2014 Excerpt from Act III "
 uid: e5fe77e2-c36b-ba61-0307-4dd57ac2f8ff
 ---
 Excerpt from Act III of Nahum Tate's "The History of King Lear."
-

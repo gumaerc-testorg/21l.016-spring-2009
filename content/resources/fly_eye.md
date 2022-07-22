@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: The Head of a Housefly
 uid: c557d706-a931-6160-6633-117f768fd35e
 ---
 Drawing of the head of a housefly, highlighting the eye's compound structure, from Robert Hooke's Micrographia.
-

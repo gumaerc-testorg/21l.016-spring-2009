@@ -5,6 +5,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guidelines for Comparative Short Essay Assignment
 uid: f009850d-b376-cdb0-9a5d-a34543d27b40
 ---
 Guidelines for completing a comparative short essay assignment.
-

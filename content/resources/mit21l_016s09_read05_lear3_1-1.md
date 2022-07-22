@@ -5,6 +5,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'King Lear: Act 3, Scene 1 '
 uid: fba667fc-970d-b584-7418-cf87594a96a8
 ---
 Excerpt from King Lear, a tragedy by William Shakespeare.
-

@@ -7,6 +7,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Notes on History of Cosmology
 uid: 84bb60e1-f8a6-044f-937a-9d8056731e0b
 ---
 Lecture notes on the history of cosmology, cosmology in ancient Greece, Aristotle, the Ptolemaic system, cosmology in the Middle Ages, Copernicus, Tycho Brahe and Johannes Kepler, and Galileo.
-

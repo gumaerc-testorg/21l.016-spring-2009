@@ -6,6 +6,7 @@ file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'An Horatian Ode upon Cromwell''s Return from Ireland '
 uid: 0454a411-6e7f-2b2f-6431-28893f30290b
 ---
 Full text of Andrew Marvell's "An Horatian Ode upon Cromwell's Return from Ireland."
-

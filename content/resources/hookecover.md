@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Micrographia
 uid: da3c35bc-e641-773f-a199-bd50b5a74c4a
 ---
 The cover of Robert Hooke's Micrographia.
-
