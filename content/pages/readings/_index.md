@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of required readings for individual
+  class sessions, selected supplemental readings pertaining to individual class topics,
+  and a list of other supplemental readings.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 ---
-
 An Important Note on Reading
 ----------------------------
 
@@ -49,13 +55,13 @@ Introduction-to an experiment and a century. _Genesis_ meets _Galileo_
 
 Brecht, Bertolt. _The Life of Galileo_. Translated by R. Manheim and J. Willett. New York, NY: Arcade Publishing, 1994. ISBN: 9781559702546.
 
-Look at Baker, Jonathan. "Notes on History of Cosmology." ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_baker_astronomy)) (Courtesy of Jonathan Baker. Used with permission)
+Look at Baker, Jonathan. "Notes on History of Cosmology." ({{% resource_link 84bb60e1-f8a6-044f-937a-9d8056731e0b "PDF" %}}) (Courtesy of Jonathan Baker. Used with permission)
 
 _Optional_
 
-Life of Galileo scene breakdown ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_galileo_scene))
+Life of Galileo scene breakdown ({{% resource_link 5655953c-6494-5eb6-26ee-93bcebf6fbd6 "PDF" %}})
 
-Book of Genesis. _The Holy Bible_, King James Edition, 1611. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_016s09_read01_genesis))
+Book of Genesis. _The Holy Bible_, King James Edition, 1611. ({{% resource_link bfcc9472-abdd-54fb-88f9-0abc2842b56c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -193,7 +199,7 @@ Specific assignments for each student from the writings of Bacon, Boyle, Burton,
 
 Bacon, Sir Francis. "Part L. Of Studies" from _The Essayes or Consels_ (1625); and Preface through Part XCIX and Part CXXX from _The New Organon_. In _Francis Bacon: A Selection of his Works_. New York, NY: Macmillan, 1977 (reprint). ISBN: 9780024245304.
 
-Boyle, Robert. Excerpt from "A Defense of the Doctrine Touching the Spring and Weight of the Air." Oxford England, 1662. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21l_016s09_read07_boyle_defense))
+Boyle, Robert. Excerpt from "A Defense of the Doctrine Touching the Spring and Weight of the Air." Oxford England, 1662. ({{% resource_link b324c031-157d-6c33-52da-cdd21aa7d28a "PDF" %}})
 
 Boyle, Robert. Selections from _The Sceptical Chymist_. Chestnut Hill, MA: Adamant Media Corp, 2001. ISBN: 9780543916587.
 
@@ -219,7 +225,7 @@ Brockett, Oscar G., and Franklin J. Hildy. "Engligh Theatre to 1642." Excerpt fr
 
 Lindley, David. "The Stuart Masque and its Makers." In _The Cambridge History of British Theatre. Vol. 1, Origins to 1660_. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA383=onepage) in Google Books\]
 
-Jonson, Ben. "Mercury Vindicated from the Alchemists at Court." ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read08_mercury))
+Jonson, Ben. "Mercury Vindicated from the Alchemists at Court." ({{% resource_link 8bc3c058-c064-9028-002f-e41661bbbaa4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -243,7 +249,7 @@ Special theatrical guest: Michael Krass, costume designer and head of design at 
 
 Massinger, Philip. _The Roman Actor_. Royal Shakespeare Company Classics Series. London, UK: Nick Hern Books, 2002. ISBN: 9781854596970.
 
-The Petition of Right (1628) ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read09_right))
+The Petition of Right (1628) ({{% resource_link 164bbc7a-7b56-8e65-be6b-03c310093f44 "PDF" %}})
 
 Sanders, Julie. "Introductory Biographical and Historical Outline" and Chapter 1 "Caroline Drama and Dramatists." In _Caroline Drama_. Tavistock, UK: Northcote House, 1999. ISBN: 9780746308776.
 
@@ -332,7 +338,7 @@ Reflections upon your essays, historical meltdown, and what came after; with ref
 
 Seaver, Paul S. _Wallington's World_. Stanford, CA: Stanford University Press, 1985, preface and chapters 1 and 2. ISBN: 9780804714327.
 
-Marvell, A. "An Horatian Ode upon Cromwell's Return from Ireland." ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read14_horatian_ode))
+Marvell, A. "An Horatian Ode upon Cromwell's Return from Ireland." ({{% resource_link 0454a411-6e7f-2b2f-6431-28893f30290b "PDF" %}})
 
 Butler, Martin. "The Condition of the Theatre in 1642." Chapter 18 in _The Cambridge History of British Theatre. Vol. 1, Origins to 1660_. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA439=onepage) in Google Books\]
 
@@ -356,7 +362,7 @@ The Puritan Revolution. Discussion of research and extensive essay composition
 
 Churchill, Caryl. "Light Shining in Buckinghamshire." In _Plays: One_. London, UK: Methuen, 1985. ISBN: 9780413566706. \[[Preview](http://books.google.com/books?id=uaHGNeyeTwQC&pg=PA186=onepage) in Google Books\]
 
-The Grand Remonstrance ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read15_remonstrance)) (Greivances presented to King Charles I of England by the English Parliament on 1 December 1641)
+The Grand Remonstrance ({{% resource_link 4b9252ed-04cf-f1ea-cbde-769a099c3d90 "PDF" %}}) (Greivances presented to King Charles I of England by the English Parliament on 1 December 1641)
 
 
 {{< tdclose >}}
@@ -536,7 +542,7 @@ Dramatic reading from _The Virtuoso_ and conclusions
 Supplemental Readings
 ---------------------
 
-[Image Gallery: Selections from Hooke's _Micrographia_ and other visuals]({{< baseurl >}}/pages/readings/hookes_micrographia)
+{{% resource_link 5118a3ba-fcbc-c0e6-42f6-702d010e8bbc "Image Gallery: Selections from Hooke's _Micrographia_ and other visuals" %}}
 
 Dillon, Janette. "Theatre and Controversy, 1603-1642." _In The Cambridge History of British Theatre. Vol. 1, Origins to 1660_. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=zgF3RsQv7ukC&lpg=PR1&pg=PA364#v=onepage&q=&f=false) in Google Books\]
 

@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, screenings,
+  objectives, and coursework.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a8850c70-1371-eea3-072a-935d000bc49d
 ---
 
-Please feel encouraged to 'read ahead' of the dates if you have the time; the sooner you have the reading materials in your mind, the better! **Note**: For instructions on what is meant by "read" in relation to playscripts, see the important note on the [Readings]({{< baseurl >}}/pages/readings) page.
+Please feel encouraged to 'read ahead' of the dates if you have the time; the sooner you have the reading materials in your mind, the better! **Note**: For instructions on what is meant by "read" in relation to playscripts, see the important note on the {{% resource_link 7eb39698-d3d6-fef2-b42d-ff918bca52b8 "Readings" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -110,8 +114,8 @@ To gain comfort in reading seventeenth-century playscripts; to appreciate a mast
 
 Rehearse reading scenes from the two _Lears_.
 
-> \- Shakespeare, Act 3, Scene 1 ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read05_lear3_1))  
-> \- Tate, Act III excerpt ([PDF]({{< baseurl >}}/resources/mit21l_016s09_read05_lear_tate))
+> \- Shakespeare, Act 3, Scene 1 ({{% resource_link f5ee3314-953f-d4fa-8f2c-d871e80c2647 "PDF" %}})  
+> \- Tate, Act III excerpt ({{% resource_link 589bcc3b-2ce3-caa2-90a7-d99bacfe6df8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -330,10 +334,10 @@ Special event: theatrical field trip to see Richard Goodwin's "Two Men of Floren
 {{< tdopen >}}
 Playwriting, day one
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 To begin creating theatrical pieces of writing, building on your experience in this class; to begin to find a theatrical voice.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Work on your various forms of writing

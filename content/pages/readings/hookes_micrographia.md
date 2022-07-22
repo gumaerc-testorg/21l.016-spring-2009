@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Images from Robert Hooke's Micrographia, and links to other sources of
+  images for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7eb39698-d3d6-fef2-b42d-ff918bca52b8
 title: Images for Workshop 1
 uid: 5118a3ba-fcbc-c0e6-42f6-702d010e8bbc
@@ -8,7 +14,7 @@ uid: 5118a3ba-fcbc-c0e6-42f6-702d010e8bbc
 
 Hooke's Micrographia
 --------------------
-{{< image-gallery id="5118a3ba-fcbc-c0e6-42f6-702d010e8bbc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/21l-016-learning-from-the-past-drama-science-performance-spring-2009/" >}}
+{{< image-gallery id="5118a3ba-fcbc-c0e6-42f6-702d010e8bbc_nanogallery2" baseUrl="/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/" >}}
 {{< image-gallery-item href="d9739dc3ad1db6f03b38eeacf5042493_01.jpg" data-ngdesc="The cover of Robert Hookes Micrographia." text="The cover of Micrographia." >}}
 {{< image-gallery-item href="0d50331157211bd2630a3b47e6c42d4f_02.jpg" data-ngdesc="Drawing of a microscopy setup from Robert Hookes Micrographia." text="Drawing of a microscopy setup." >}}
 {{< image-gallery-item href="9f420f367287f6f79f0e2b04d8619417_03.jpg" data-ngdesc="Drawing of cork cell structure from Robert Hookes Micrographia." text="Magnified cork." >}}
