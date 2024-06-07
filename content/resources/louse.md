@@ -3,6 +3,7 @@ content_type: resource
 description: Drawing of a louse, underside, shown grasping a hair, from Robert Hooke's
   Micrographia.
 file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/b48979e5f03e7aee854c8d889d4e949e_louse.jpg
+file_size: 11147
 file_type: image/jpeg
 image_metadata:
   caption: ''

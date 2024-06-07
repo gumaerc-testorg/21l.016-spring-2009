@@ -2,6 +2,7 @@
 content_type: resource
 description: Drawing of a flea, side view, from Robert Hooke's Micrographia.
 file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/23c2ad926b38ad6f45e18807b8898d16_flea.jpg
+file_size: 10205
 file_type: image/jpeg
 image_metadata:
   caption: ''
