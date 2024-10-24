@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Scene breakdown of The Life of Galaleo.
-file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/5655953c64945eb626ee93bcebf6fbd6_MIT21L_016s09_read01_galileo_scene.pdf
+file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/5655953c64945eb626ee93bcebf6fbd6_MIT21L_016s09_read01_galileo_scene.pdf
 file_size: 52415
 file_type: application/pdf
 learning_resource_types:
