@@ -2,7 +2,7 @@
 content_type: resource
 description: Drawing of a housefly, side view, and detail of the wing structure from
   Robert Hooke's Micrographia.
-file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/9a012885f6f8525c1753e634ba49cd30_fly.jpg
+file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/9a012885f6f8525c1753e634ba49cd30_fly.jpg
 file_size: 10102
 file_type: image/jpeg
 image_metadata:

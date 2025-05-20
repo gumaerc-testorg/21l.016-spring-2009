@@ -2,7 +2,7 @@
 content_type: resource
 description: Drawing of the head of a housefly, highlighting the eye's compound structure,
   from Robert Hooke's Micrographia.
-file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/c557d706a93161606633117f768fd35e_fly_eye.jpg
+file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/c557d706a93161606633117f768fd35e_fly_eye.jpg
 file_size: 10136
 file_type: image/jpeg
 image_metadata:

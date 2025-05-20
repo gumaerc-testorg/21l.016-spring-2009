@@ -2,7 +2,7 @@
 content_type: resource
 description: Excerpt from "A Defense of the Doctrine Touching the Spring and Weight
   of the Air," by Robert Boyle.
-file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/b324c031157d6c3352dacdd21aa7d28a_MIT21L_016s09_read07_boyle_defense.pdf
+file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/b324c031157d6c3352dacdd21aa7d28a_MIT21L_016s09_read07_boyle_defense.pdf
 file_size: 875870
 file_type: application/pdf
 learning_resource_types:

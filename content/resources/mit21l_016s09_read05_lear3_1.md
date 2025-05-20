@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt from King Lear, a tragedy by William Shakespeare.
-file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/f5ee3314953fd4fa8f2cd871e80c2647_MIT21L_016s09_read05_lear3_1.pdf
+file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/f5ee3314953fd4fa8f2cd871e80c2647_MIT21L_016s09_read05_lear3_1.pdf
 file_size: 111770
 file_type: application/pdf
 learning_resource_types: []
