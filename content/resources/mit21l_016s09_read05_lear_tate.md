@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excerpt from Nahum Tate's "The History of King Lear."
-file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/589bcc3b2ce3caa290a7d99bacfe6df8_MIT21L_016s09_read05_lear_tate.pdf
+file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/589bcc3b2ce3caa290a7d99bacfe6df8_MIT21L_016s09_read05_lear_tate.pdf
 file_size: 143848
 file_type: application/pdf
 learning_resource_types: []
