@@ -79,7 +79,7 @@ Passages written by Simplicissimus, Thomas Mun, and Thomas Hobbes. In "The Seven
 
 Zwicker, Steven, N., ed. *Cambridge Companion to English Literature, 1650-1740*. New York, NY: Cambridge University Press, 1998. ISBN: 9780521564885. \[[Preview](http://books.google.com/books?id=Tn74sXOZuh4C&lpg=PP1&ots=co1ag5-wLM&dq=Cambridge%20Companion%20to%20English%20Literature%2C%201650-1740.&pg=PP1#v=onepage&q=&f=false) in Google Books\]
 
-\\> - Chapter 4: Munns, Jessica. "Theatrical Culture 1: Politics and Theatre."    
+\\> - Chapter 4: Munns, Jessica. "Theatrical Culture 1: Politics and Theatre."     
 \\> - Chapter 5: Winn, James A."Theatrical Culture 2: Theatre and Music."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -110,7 +110,7 @@ A Tale of Two *Lears*
 
 Selections in *The Oxford Illustrated History of Shakespeare on Stage*. New York, NY: Oxford University Press, 2001. ISBN: 9780192802132.
 
-\\> - Wiggins, Martin. "The Kings Men and After."    
+\\> - Wiggins, Martin. "The Kings Men and After."     
 \\> - Dobson, Michael. "Improving on the Original: Actresses and Adaptations."
 
 Dillon, Janette. "Theatre and Controversy, 1603-1642." In *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA364=onepage) in Google Books\]
@@ -183,7 +183,7 @@ Butler, Martin. *Theatre and Crisis: 1632-1642*. New York, NY: Cambridge Univers
 
 Selections from William Prynne's [*Histriomastix*](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A10187.0001.001).
 
-\\> - [Prologue](http://people.virginia.edu/~jdk3t/HistrioMastixPrynneexc.htm)    
+\\> - [Prologue](http://people.virginia.edu/~jdk3t/HistrioMastixPrynneexc.htm)     
 \\> - Excerpts in [Norton Topics Online: The Norton Anthology of English Literature](http://www.wwnorton.com/college/english/nael/17century/topic_3/prynne.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -314,7 +314,7 @@ Discussion of your learning and sharing of your expertise
 
 Selections from Shaplin, Adriano. *The Tragedy of Thomas Hobbes*. Oberon Books, 2009. ISBN: 9781840028881.
 
-[Background article](http://shass.mit.edu/magazine/spring_09/thomas_hobbes) in *MIT Soundings Magazine* about this MIT/Royal Shakespeare Company collaboration
+[Background article (archived)](https://web.archive.org/web/20200715121326/https://shass.mit.edu/magazine/spring_09/thomas_hobbes) in *MIT Soundings Magazine* about this MIT/Royal Shakespeare Company collaboration
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
