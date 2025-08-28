@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Drawing of several different snowflakes from Robert Hooke's Micrographia.
-file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/80379010d529572cbb3b3262ea94840e_snowflakes.jpg
+file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/80379010d529572cbb3b3262ea94840e_snowflakes.jpg
 file_size: 10236
 file_type: image/jpeg
 image_metadata:

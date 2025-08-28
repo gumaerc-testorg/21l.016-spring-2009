@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Drawing of cork cell structure from Robert Hooke's Micrographia.
-file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/587b23ffb49b8a3da2a60bdc060e8f8d_cork.jpg
+file: /ol-ocw-studio-app/courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/587b23ffb49b8a3da2a60bdc060e8f8d_cork.jpg
 file_size: 10363
 file_type: image/jpeg
 image_metadata:
