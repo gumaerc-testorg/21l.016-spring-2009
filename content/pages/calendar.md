@@ -126,7 +126,7 @@ Rehearse reading scenes from the two _Lears_.
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Special event: evening film screening of [_Stage Beauty_](http://www.imdb.com/title/tt0368658/) (Dir. Richard Eyre, 2004)
+Special event: evening film screening of {{% resource_link "e528356b-0207-4841-ba38-6b5052a8ab23" "_Stage Beauty_" %}} (Dir. Richard Eyre, 2004)
 {{< tdclose >}}
 {{< tdopen >}}
  
