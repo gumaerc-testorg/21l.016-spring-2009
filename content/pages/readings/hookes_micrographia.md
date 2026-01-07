@@ -25,33 +25,33 @@ uid: 5118a3ba-fcbc-c0e6-42f6-702d010e8bbc
 {{< image-gallery-item href="481300a871e8f961cdcf2f6b51370a32_08.jpg" data-ngdesc="Drawing of several different seeds from Robert Hookes Micrographia." text="Drawing of several different seeds." >}}  
 {{< image-gallery-item href="43948dcff3a74366e5d5e36a286a431e_09.jpg" data-ngdesc="Drawing of several different snowflakes from Robert Hookes Micrographia." text="Drawing of several different snowflakes." >}}  
 {{< /image-gallery >}}  
-{{% resource_link "60829dee-17e8-4152-a2e1-bc7aeec7ca6a" "Puritan Family" %}}
+[Puritan Family](https://www.britannica.com/topic/Puritanism)
 
-{{% resource_link "78bbd69a-70de-491f-bd7d-4f1fbad7fffe" "Plague \"Dance of Death\"" %}}
+[Plague "Dance of Death"](https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_-_Dance_of_Death_(CCLXIIIIv).jpg)
 
 A Costume, Inigo Jones
 
-{{% resource_link "39fda5b5-edfd-4727-aac4-2ecfd77e0fdd" "An Air Pump Drawing" %}}
+[An Air Pump Drawing](http://www.princeton.edu/~his291/Air_Pump.html)
 
-{{% resource_link "82e3730d-15c6-4217-b561-99f14b549272" "Portrait of Newton" %}}
+[Portrait of Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
 
-{{% resource_link "84b10da7-0de0-4938-8315-9015f3e7da43" "Matthew Hopkins - Witchfinder" %}}
+[Matthew Hopkins - Witchfinder](http://special.lib.gla.ac.uk/images/exhibitions/damned/dadisc.gif)
 
 The Execution of Charles I
 
-- {{% resource_link "61a253de-acc7-4a7d-8539-df30c63b8e58" "A broadside" %}}
+- [A broadside](http://www.bbc.co.uk/radio4/history/empire/images/synopsis/23.jpg)
 - An engraving
 
-{{% resource_link "44fc5f88-a361-4b0a-92bb-23798450cd47" "Charles I - a Study" %}} (one of my favorites)
+[Charles I - a Study](http://en.wikipedia.org/wiki/Image:Charlesx3.JPG) (one of my favorites)
 
-{{% resource_link "938aac32-d404-448f-ab00-9afe67eb07e1" "Queen Henrietta Maria" %}}
+[Queen Henrietta Maria](http://en.wikipedia.org/wiki/Image:Henrietta_Maria.jpg)
 
-{{% resource_link "201e0280-a8c7-468a-8a75-068b9d78565e" "Charles II" %}}
+[Charles II](http://clendening.kumc.edu/dc/pc/Charles_II.jpg)
 
-{{% resource_link "a3073542-50a9-4363-8c44-b8261673c0d0" "William Harvey Valves" %}}
+[William Harvey Valves](http://www.umich.edu/~ece/student_projects/anatomy/images/harvey_plate.gif)
 
-{{% resource_link "acad17e6-0d05-4bea-91f2-4f67627efce4" "Ranters" %}}
+[Ranters](https://www.brh.org.uk/site/articles/a-glorious-liberty/)
 
-{{% resource_link "b987fcc5-f7ef-4fc3-b753-12fb1e1903c4" "Nell Gwyn" %}}
+[Nell Gwyn](http://en.wikipedia.org/wiki/Nell_Gwyn)
 
-{{% resource_link "bdf2afca-bf24-419b-bedc-5d1a53092a79" "The Royal Society" %}}
+[The Royal Society](http://www.stanford.edu/class/history34q/readings/ShapinSchaffer/RoyalSociety.jpeg)
