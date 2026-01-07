@@ -71,13 +71,13 @@ To sample the writing of Galileo, see Kreis, Steven. "Galileo, The Starry Messen
 Contextualizing *Galileo*; varieties of history, improvisatory cosmologies
 {{< tdclose >}}{{< tdopen >}}
 
-Spur, John. "England 1649-1750: Differences Contained?" Chapter 1 in *Cambridge Companion to English Literature, 1650-1740*. Edited by Steven N. Zwicker. New York, NY: Cambridge University Press, 1998, pp. 238-264. ISBN: 9780521564885. \[{{% resource_link "ca3aeb00-b8cd-4bce-9043-734a7c520f3e" "Preview" %}} in Google Books\]
+Spur, John. "England 1649-1750: Differences Contained?" Chapter 1 in *Cambridge Companion to English Literature, 1650-1740*. Edited by Steven N. Zwicker. New York, NY: Cambridge University Press, 1998, pp. 238-264. ISBN: 9780521564885. \[[Preview](http://books.google.com/books?id=Tn74sXOZuh4C&lpg=PP1&ots=co1ag5-wLM&dq=Cambridge%20Companion%20to%20English%20Literature%2C%201650-1740.&pg=PP1#v=onepage&q=&f=false) in Google Books\]
 
 Passages written by Simplicissimus, Thomas Mun, and Thomas Hobbes. In "The Seventeenth Century." Chapter IV in *The Western Tradition: From the Renaissance to the Atomic Age*. Edited by Eugen Weber. Boston, MA: D.C. Heath & Co., 1959, pp. 362-421.
 
 *Optional*
 
-Zwicker, Steven, N., ed. *Cambridge Companion to English Literature, 1650-1740*. New York, NY: Cambridge University Press, 1998. ISBN: 9780521564885. \[{{% resource_link "ca3aeb00-b8cd-4bce-9043-734a7c520f3e" "Preview" %}} in Google Books\]
+Zwicker, Steven, N., ed. *Cambridge Companion to English Literature, 1650-1740*. New York, NY: Cambridge University Press, 1998. ISBN: 9780521564885. \[[Preview](http://books.google.com/books?id=Tn74sXOZuh4C&lpg=PP1&ots=co1ag5-wLM&dq=Cambridge%20Companion%20to%20English%20Literature%2C%201650-1740.&pg=PP1#v=onepage&q=&f=false) in Google Books\]
 
 \\> - Chapter 4: Munns, Jessica. "Theatrical Culture 1: Politics and Theatre."     
 \\> - Chapter 5: Winn, James A."Theatrical Culture 2: Theatre and Music."
@@ -92,7 +92,7 @@ Special guest: historian Ann McCants
 
 {{< tdclose >}}{{< tdopen >}}
 
-Shakespeare, William. *King Lear*. Edited by R. A. Foakes. London, UK: Arden Shakespeare, 1997. ISBN: 9780174434603. \[{{% resource_link "0c044c1b-cc50-4d9e-9cf3-f21251c8afa3" "Preview" %}} in Google Books\]
+Shakespeare, William. *King Lear*. Edited by R. A. Foakes. London, UK: Arden Shakespeare, 1997. ISBN: 9780174434603. \[[Preview](http://books.google.com/books?id=LPY9sswP-toC&pg=PAfrontcover) in Google Books\]
 
 Tate, Nahum. *The History of King Lear*.
 
@@ -113,14 +113,14 @@ Selections in *The Oxford Illustrated History of Shakespeare on Stage*. New York
 \\> - Wiggins, Martin. "The Kings Men and After."     
 \\> - Dobson, Michael. "Improving on the Original: Actresses and Adaptations."
 
-Dillon, Janette. "Theatre and Controversy, 1603-1642." In *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[{{% resource_link "e3996915-e251-474a-9c37-ea31437e4bae" "Preview" %}} in Google Books\]
+Dillon, Janette. "Theatre and Controversy, 1603-1642." In *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA364=onepage) in Google Books\]
 
-Spend some time {{% resource_link "66d8f4b2-3d8a-4d1d-ba67-9e03a41ffaba" "blogging with Samuel Pepys" %}}
+Spend some time [blogging with Samuel Pepys](http://www.pepysdiary.com/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-Special event: evening film screening of {{% resource_link "e528356b-0207-4841-ba38-6b5052a8ab23" "*Stage Beauty*" %}} (Dir. Richard Eyre, 2004)
+Special event: evening film screening of [*Stage Beauty*](http://www.imdb.com/title/tt0368658/) (Dir. Richard Eyre, 2004)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -139,7 +139,7 @@ Boyle, Robert. Excerpt from "A Defense of the Doctrine Touching the Spring and W
 
 Boyle, Robert. Selections from *The Sceptical Chymist*. Chestnut Hill, MA: Adamant Media Corp, 2001. ISBN: 9780543916587.
 
-Burton, Robert. Selections from *The Anatomy of Melancholy: What it Is, With all the Kinds, Causes, Symptomes, Prognostickes and Severall Cures of It*. ({{% resource_link "9cc901da-25f3-4bc5-a54a-08a461c22988" "Download from Project Gutenberg" %}})
+Burton, Robert. Selections from *The Anatomy of Melancholy: What it Is, With all the Kinds, Causes, Symptomes, Prognostickes and Severall Cures of It*. ([Download from Project Gutenberg](http://www.gutenberg.org/etext/10800))
 
 Descartes, René. Selections from *Meditations on First Philosophy*. Translated by Donald A. Cress. Indianapolis, IN: Hackett, 1979. ISBN: 9780915144570.
 
@@ -151,7 +151,7 @@ Five "men of science": Bacon, Burton, Descartes, Boyle and Hobbes. Expert group 
 
 Brockett, Oscar G., and Franklin J. Hildy. "Engligh Theatre to 1642." Excerpt from *The History of the Theater*. 9th ed. Boston, MA: Allyn and Bacon, 2003, pp. 113-114 and 126-137.
 
-Lindley, David. "The Stuart Masque and its Makers." In *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[{{% resource_link "e826faac-3080-4c34-bcab-eaeca4f79150" "Preview" %}} in Google Books\]
+Lindley, David. "The Stuart Masque and its Makers." In *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA383=onepage) in Google Books\]
 
 Jonson, Ben. "Mercury Vindicated from the Alchemists at Court." ({{% resource_link "8bc3c058-c064-9028-002f-e41661bbbaa4" "PDF" %}})
 
@@ -177,14 +177,14 @@ Sanders, Julie. "Introductory Biographical and Historical Outline" and Chapter 1
 *The Roman Actor* (performed 1626, published 1629)
 {{< tdclose >}}{{< tdopen >}}
 
-Ford, John. "'Tis Pity She's a Whore." In *'Tis Pity She's a Whore and Other Plays*. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[{{% resource_link "ef9eb588-2de5-4ac3-b731-9197631a8315" "Preview" %}} in Google Books\]
+Ford, John. "'Tis Pity She's a Whore." In *'Tis Pity She's a Whore and Other Plays*. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[[Preview](http://books.google.com/books?id=DqbX7iwEa5EC&lpg=PA1&pg=PP1#v=onepage&q=&f=false) in Google Books\]
 
 Butler, Martin. *Theatre and Crisis: 1632-1642*. New York, NY: Cambridge University Press, 1984, chapters 1-3. ISBN: 9780521246323.
 
-Selections from William Prynne's {{% resource_link "115926b5-3573-4c65-84d6-a2aded639272" "*Histriomastix*" %}}.
+Selections from William Prynne's [*Histriomastix*](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A10187.0001.001).
 
-\\> - {{% resource_link "108a3559-220d-40fb-9408-eb21fadb7d77" "Prologue" %}}     
-\\> - Excerpts in {{% resource_link "fca8f05f-490a-4ba5-a540-689fc8b7f16b" "Norton Topics Online: The Norton Anthology of English Literature" %}}
+\\> - [Prologue](http://people.virginia.edu/~jdk3t/HistrioMastixPrynneexc.htm)     
+\\> - Excerpts in [Norton Topics Online: The Norton Anthology of English Literature](http://www.wwnorton.com/college/english/nael/17century/topic_3/prynne.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -194,9 +194,9 @@ Selections from William Prynne's {{% resource_link "115926b5-3573-4c65-84d6-a2ad
 
 Read one of the following for the comparative short essay:
 
-Ford, John. "The Broken Heart." In *'Tis Pity She's a Whore and Other Plays*. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[{{% resource_link "f479f5d4-41ef-4ee1-b981-1ee0830219fa" "Preview" %}} in Google Books\]
+Ford, John. "The Broken Heart." In *'Tis Pity She's a Whore and Other Plays*. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[[Preview](http://books.google.com/books?id=DqbX7iwEa5EC&lpg=PR5&pg=PA81) in Google Books\]
 
-Shirley, James. *The Cardinal*. Manchester, UK: Manchester University Press, 1986. ISBN: 9780719016257. \[{{% resource_link "2095bed5-82db-41de-b1e0-cadb937f10b5" "Preview" %}} in Google Books\]
+Shirley, James. *The Cardinal*. Manchester, UK: Manchester University Press, 1986. ISBN: 9780719016257. \[[Preview](http://books.google.com/books?id=wyjpAAAAIAAJ&lpg=PP1&pg=PP1#v=onepage&q=&f=false) in Google Books\]
 
 Behn, Aphra. "The Rover." In *The Rover and Other Plays*. Edited by Jane Spenser. New York, NY: Oxford University Press, 1998. ISBN 9780192834515.
 
@@ -222,7 +222,7 @@ Seaver, Paul S. *Wallington's World*. Stanford, CA: Stanford University Press, 1
 
 Marvell, A. "An Horatian Ode upon Cromwell's Return from Ireland." ({{% resource_link "0454a411-6e7f-2b2f-6431-28893f30290b" "PDF" %}})
 
-Butler, Martin. "The Condition of the Theatre in 1642." Chapter 18 in *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[{{% resource_link "0b85142c-a927-4516-bea3-383afe6bfb2d" "Preview" %}} in Google Books\]
+Butler, Martin. "The Condition of the Theatre in 1642." Chapter 18 in *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA439=onepage) in Google Books\]
 
 Hill, Christopher. "Religion and Ideas." Chapter 10 in *The Century of Revolution, 1603-1714*. New York, NY: W.W. Norton, 1982, pp. 139-160. ISBN: 9780393300161.
 
@@ -234,7 +234,7 @@ Morton, A. L. "Religion and Politics in the English Revolution." Chapter I in *T
 The Puritan Revolution. Discussion of research and extensive essay composition
 {{< tdclose >}}{{< tdopen >}}
 
-Churchill, Caryl. "Light Shining in Buckinghamshire." In *Plays: One*. London, UK: Methuen, 1985. ISBN: 9780413566706. \[{{% resource_link "c5eda6cb-b32a-45a6-bf62-ccecc90dce1f" "Preview" %}} in Google Books\]
+Churchill, Caryl. "Light Shining in Buckinghamshire." In *Plays: One*. London, UK: Methuen, 1985. ISBN: 9780413566706. \[[Preview](http://books.google.com/books?id=uaHGNeyeTwQC&pg=PA186=onepage) in Google Books\]
 
 The Grand Remonstrance ({{% resource_link "4b9252ed-04cf-f1ea-cbde-769a099c3d90" "PDF" %}}) (Greivances presented to King Charles I of England by the English Parliament on 1 December 1641)
 
@@ -246,7 +246,7 @@ The Grand Remonstrance ({{% resource_link "4b9252ed-04cf-f1ea-cbde-769a099c3d90"
 
 Clare, Janet. "General Introduction: The Theatre and Cultural Revolution." In *Drama of the English Republic, 1649-1660*. Manchester, UK: Manchester University Press, 2002. ISBN: 9780719044823.
 
-———. "Theatre and Commonwealth." Chapter 19 in *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[{{% resource_link "e3996915-e251-474a-9c37-ea31437e4bae" "Preview" %}} in Google Books\]
+———. "Theatre and Commonwealth." Chapter 19 in *The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=0_cGBwAAQBAJ&pg=PA364=onepage) in Google Books\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -277,7 +277,7 @@ Sharing of documents and paper ideas
 {{< tdclose >}}{{< tdopen >}}
 Sharing of documents and paper ideas (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Wycherley, William. *The Country Wife*. (1675) New York, NY: Cambridge University Press, 1997. ISBN: 9780521565813. \[{{% resource_link "f6382793-56cf-4e96-99bb-848fcf37e213" "View and download" %}} an online version of this play.\]
+Wycherley, William. *The Country Wife*. (1675) New York, NY: Cambridge University Press, 1997. ISBN: 9780521565813. \[[View and download](http://publish.uwo.ca/~shroyer/authors/Wycherley/texts/country_wife.html) an online version of this play.\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -290,9 +290,9 @@ Read the assigned (and any other) poems: lyrics and narrative odes by Andrew Mar
 Poetry of the seventeenth century
 {{< tdclose >}}{{< tdopen >}}
 
-Selections from Browne, Sir Thomas. {{% resource_link "a8ad7276-c656-4215-bc76-1a89ec98cbeb" "*Hydriotaphia*" %}}.
+Selections from Browne, Sir Thomas. [*Hydriotaphia*](https://penelope.uchicago.edu/hydrionoframes/hydrion.html).
 
-Kushner, Tony. *Death and Taxes: Hydriotaphia and Other Plays*. New York, NY: Theatre Communications Group, 1998. ISBN: 9781559361569. \[{{% resource_link "ef68daea-fc2f-4e81-a28c-c3c8d539721e" "Preview" %}} in Google Books\]
+Kushner, Tony. *Death and Taxes: Hydriotaphia and Other Plays*. New York, NY: Theatre Communications Group, 1998. ISBN: 9781559361569. \[[Preview](http://books.google.com/books?id=k_HoCAAAQBAJ&pg=PAfrontcover) in Google Books\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -314,7 +314,7 @@ Discussion of your learning and sharing of your expertise
 
 Selections from Shaplin, Adriano. *The Tragedy of Thomas Hobbes*. Oberon Books, 2009. ISBN: 9781840028881.
 
-{{% resource_link "4eeb2f94-2ab5-414d-81be-3115dbce0530" "Background article (archived)" %}} in *MIT Soundings Magazine* about this MIT/Royal Shakespeare Company collaboration
+[Background article (archived)](https://web.archive.org/web/20200715121326/https://shass.mit.edu/magazine/spring_09/thomas_hobbes) in *MIT Soundings Magazine* about this MIT/Royal Shakespeare Company collaboration
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
@@ -334,13 +334,13 @@ Dramatic reading from *The Virtuoso* and conclusions
 
 {{% resource_link "5118a3ba-fcbc-c0e6-42f6-702d010e8bbc" "Image Gallery: Selections from Hooke's *Micrographia* and other visuals" %}}
 
-Dillon, Janette. "Theatre and Controversy, 1603-1642." *In The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[{{% resource_link "9dd9a3d7-4d80-44fd-8adc-8d7956db056b" "Preview" %}} in Google Books\]
+Dillon, Janette. "Theatre and Controversy, 1603-1642." *In The Cambridge History of British Theatre. Vol. 1, Origins to 1660*. Edited by Jane Milling and Peter Thomson. New York, NY: Cambridge University Press, 2004. ISBN: 9780521650403. \[[Preview](http://books.google.com/books?id=zgF3RsQv7ukC&lpg=PR1&pg=PA364#v=onepage&q=&f=false) in Google Books\]
 
 Dunn, Richard S. "The Puritan Revolution" and "The Century of Genius." In *The Age of Religious Wars, 1559-1689*. New York, NY: W.W. Norton, 1970. ISBN: 9780393098914.
 
-Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography." Chapter 4 in *The Great Chain of Being: A Study of the History of an Idea*. Cambridge, MA: Harvard University Press, 1976 (reprint). ISBN: 9780674361539. \[{{% resource_link "8fffc1ed-70a4-4a15-abaf-70ca37f0d5d6" "Preview" %}} in Google Books\]
+Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography." Chapter 4 in *The Great Chain of Being: A Study of the History of an Idea*. Cambridge, MA: Harvard University Press, 1976 (reprint). ISBN: 9780674361539. \[[Preview](http://books.google.com/books?id=5u3HZjTpkTgC&lpg=PP1&dq=The%20Great%20Chain%20of%20Being%3A%20A%20Study%20of%20the%20History%20of%20an%20Idea&pg=PA99#v=onepage&q=&f=false) in Google Books\]
 
-Shapin, Steven. "The Philosopher and the Chicken: On the Dietetics of Disembodied Knowledge." In *Science Incarnate: Historical Embodiments of Natural Knowledge*. Edited by Christopher Lawrence and Steven Shapin. Chicago, IL: University of Chicago Press, 1998. ISBN: 9780226470146. \[{{% resource_link "edb18bed-4918-46ad-ab56-5071cc4a08b8" "Preview" %}} in Google Books\]
+Shapin, Steven. "The Philosopher and the Chicken: On the Dietetics of Disembodied Knowledge." In *Science Incarnate: Historical Embodiments of Natural Knowledge*. Edited by Christopher Lawrence and Steven Shapin. Chicago, IL: University of Chicago Press, 1998. ISBN: 9780226470146. \[[Preview](http://books.google.com/books?id=5ob7X5RR5oQC&lpg=PP1&pg=PA21#v=onepage&q=&f=false) in Google Books\]
 
 ### Sociopolitical History
 
