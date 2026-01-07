@@ -26,9 +26,9 @@ Research Resources
 
 Through the MIT Libraries' research databases, enrolled students can find several useful tools to help with research. Among them:
 
-*   the {{% resource_link "886da69e-f0ea-49e4-92c6-3a1edb05eb63" "OED (Oxford English Dictionary)" %}}, the standard for historical study of words;
-*   the {{% resource_link "9f751cf7-97fe-4ca4-99b5-667535f50570" "MLA (Modern Language Association) bibliography" %}}, with links to scholarly articles and books owned by MIT as well as many more available through Interlibrary Loan;
-*   {{% resource_link "8341c438-b55d-41a7-8db0-9b8d8bb2c087" "EEBO (Early English Books Online)" %}}, a remarkable resource claiming to include scanned copies of all books printed in England before the Restoration.
+*   the [OED (Oxford English Dictionary)](http://www.oed.com/), the standard for historical study of words;
+*   the [MLA (Modern Language Association) bibliography](http://www.mla.org/bibliography), with links to scholarly articles and books owned by MIT as well as many more available through Interlibrary Loan;
+*   [EEBO (Early English Books Online)](http://eebo.chadwyck.com/home), a remarkable resource claiming to include scanned copies of all books printed in England before the Restoration.
 
 Assignment Guidelines
 ---------------------
